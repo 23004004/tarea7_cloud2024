@@ -8,5 +8,5 @@ import { RouterOutlet } from '@angular/router';
   styleUrl: './app.component.scss'
 })
 export class AppComponent {
-  title = 'tarea7_cloud2024a';
+  title = 'tarea7_cloud2024';
 }
